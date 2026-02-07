@@ -1,0 +1,15 @@
+# ===== Entorno virtual =====
+.venv/
+
+# ===== Cache de Python =====
+__pycache__/
+*.pyc
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Datos grandes (NO subir) =====
+data/
+
+# ===== Logs =====
+*.log
